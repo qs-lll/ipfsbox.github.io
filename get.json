@@ -1,7 +1,16 @@
-U2FsdGVkX18EJg4AugOkcmquFB4Url60M2kH97a9tXxSPswuuIConCi8lqvzlo7x
-HY9RpvhEcAEbUuGucVymTSWgmtjjc9CO+BrJn4n4zP/hnEDyGEAKgRRb3+YIn4gn
-SOKOBP4MmrdKZ5vWG5KSpqotgWTV1aAKIjHScVa/4wtBzZa9DKKiQw8fqDdxOAUq
-/uCDTclAOhs+q8a3ZiiU6Ia8NZcqyq2bGMbXvu9VIN/38hF95MYfjNoBBjeuL/0P
-I6rS15pQuW/jEwyDdssOqIH6sL98Hvruhz0xlEi4EPmcbVrHTnZYvizsw/ZC9ePg
-BUWkpv0OJBm4SZtVoiaJeBBIYYu/8Pli0jc5eQtHG2jgYPUODOgEXUHd8yvVxfPo
-I8mTJD0mxvBsNWYGeM3QFw==
+{
+	"status": true,
+	"message": "成功",
+	"result": {
+		"enable": true,
+		"key": "barcodescanner",
+		"config": {
+
+			"FocusDelayMillis": 500,
+			"Formats": ["CODABAR", "CODE_39", "CODE_93", "CODE_128", "EAN_13", "ITF", "UPC_A", "UPC_E", "UPC_EAN_EXTENSION"],
+			"FocusArea": "top"
+		}
+
+	},
+	"statusCode": "200"
+}
